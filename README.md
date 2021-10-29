@@ -1,5 +1,4 @@
-### Hi there 👋
-### :bowtie:
+### Welcome Brother :neckbeard:
 <!--
 - 🔭 I’m currently working on Gerenet Tecnologia
 - 🌱 I’m currently learning C# and Python
