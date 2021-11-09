@@ -48,6 +48,5 @@
     <img align="center" src="" alt="">
     <img align="center" src="" alt="">
     <img align="center" src="" alt="">
-    <img align="center" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 -->
