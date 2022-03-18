@@ -1,8 +1,8 @@
 # 💚Welcome guys
-###💚 My name is Alana Souza, I am 21 years old and have 2 years of experience in the technology area. I work at Gerenet Tecnologia and am studying at Fatec university. My hobby is creating, full stack is my skill!
-###💚 Fun fact: It all started with a random server on Discord, where people from 500km away made me fall in love with this area..
+### 💚 My name is Alana Souza, I am 21 years old and have 2 years of experience in the technology area. I work at Gerenet Tecnologia and am studying at Fatec university. My hobby is creating, full stack is my skill!
+### 💚 Fun fact: It all started with a random server on Discord, where people from 500km away made me fall in love with this area..
 ### ouueeoueou
-###💚 if you want to talk to me you can call me on any of the social networks below:
+### 💚 if you want to talk to me you can call me on any of the social networks below:
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanazip/)
