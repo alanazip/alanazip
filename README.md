@@ -45,13 +45,12 @@ Rainbow calculator 🌈 to show how much fuel you need for the trip in xKm. **Te
 
 ---
 
-### 🐔 **[Riquezas da Floresta](https://github.com/alanazip/riquezasdafloresta)**
-An e-commerce platform dedicated to promoting and selling sustainably sourced products from the Brazilian forests. Discover natural goods that support local communities and the conservation of biodiversity. **Technologies used**: JavaScript, CSS3, PHP.  
+### 🌱 **[Riquezas da Floresta](https://github.com/alanazip/riquezasdafloresta)**
+An e-commerce platform dedicated to promoting and selling sustainably sourced products from the Brazilian forests. Discover natural goods that support local communities and the conservation of biodiversity. **Technologies used**: JavaScript, CSS3. 
 > 🌳 Building solutions as sustainable as a Minecraft forest!
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-34eb37?style=flat-square&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ---
 
