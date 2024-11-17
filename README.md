@@ -6,9 +6,9 @@ Hi there! I'm Alana Prado, a passionate developer always learning and creating i
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanazip&show_icons=true&theme=radical&hide_title=false&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alanazip&layout=compact&theme=radical)
 
 ---
 
@@ -25,14 +25,14 @@ Hi there! I'm Alana Prado, a passionate developer always learning and creating i
 
 ## 🌟 Featured Projects
 
-### 📱 **[Kotlin Project Name](https://github.com/yourusername/kotlin-project-name)**
+### 📱 **[Fuel Calculator]((https://github.com/alanazip/fuel_calculator))**
 A brief description of the project. **Technologies used**: Kotlin, Android.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
 ---
 
-### 🌐 **[Web Project Name]([https://github.com/yourusername/web-project-name](https://github.com/alanazip/fuel_calculator))**
+### 🌐 **[Riquezas da Floresta]([(https://github.com/alanazip/riquezasdafloresta)])**
 A brief description of the project. **Technologies used**: JavaScript, CSS3, PHP.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -50,5 +50,5 @@ A brief description of the project. **Technologies used**: JavaScript, CSS3, PHP
 
 ## 💬 Let's Connect!
 
-- 📫 Email: [youremail@example.com](mailto:alananascimentodesouza@gmail.com)
-- 🌐 LinkedIn: [Your LinkedIn](https://linkedin.com/in/alanazip)
+- 📫 Email: [alananascimentodesouza@gmail.com](mailto:alananascimentodesouza@gmail.com)
+- 🌐 LinkedIn: [Alana Prado](https://linkedin.com/in/alanazip)
