@@ -33,7 +33,7 @@ Hi there! I'm Alana Prado, a passionate developer who loves creating **innovativ
 ## 🌟 Featured Projects 🔥🌳
 
 ### 🗺️ **[Fuel Calculator](https://github.com/alanazip/fuel_calculator)**
-A brief description of the project. **Technologies used**: Kotlin, Android.  
+Rainbow calculator 🌈 to show how much fuel you need for the trip in xKm. **Technologies used**: Kotlin, Android.  
 > 🏎️ Calculate fuel efficiency like you're exploring biomes efficiently!
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
@@ -41,7 +41,7 @@ A brief description of the project. **Technologies used**: Kotlin, Android.
 ---
 
 ### 🐔 **[Riquezas da Floresta](https://github.com/alanazip/riquezasdafloresta)**
-A brief description of the project. **Technologies used**: JavaScript, CSS3, PHP.  
+An e-commerce platform dedicated to promoting and selling sustainably sourced products from the Brazilian forests. Discover natural goods that support local communities and the conservation of biodiversity. **Technologies used**: JavaScript, CSS3, PHP.  
 > 🌳 Building solutions as sustainable as a Minecraft forest!
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-34eb37?style=flat-square&logo=javascript&logoColor=black)
@@ -68,7 +68,3 @@ A brief description of the project. **Technologies used**: JavaScript, CSS3, PHP
 
 ## 🎮 Fun Fact: Why Minecraft? 🤔
 I love Minecraft because it inspires **creativity, resourcefulness, and collaboration**—skills I bring to my projects! Whether it's building worlds block by block or writing code line by line, the possibilities are endless! 🟩🟫
-
----
-
-## 🌟 Keep Crafting, Keep Coding! 💻⚒️
