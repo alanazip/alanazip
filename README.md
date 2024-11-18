@@ -5,6 +5,12 @@ Hi there! I'm Alana Prado, a passionate developer who loves creating **innovativ
 ## 🌈 Rainbow Contribution Graph
 
 ![Rainbow Graph](https://github-contributions.vercel.app/user/alanazip?theme=gradient&colors=pink,lavender,lightblue,peach,lightgreen)
+## 🌈 Custom Contribution Graph
+
+![Custom Graph](https://github-contributions.vercel.app/user/alanazip?theme=gradient&colors=pink,lavender,lightblue,peach,lightgreen)
+## 🌸 Custom Contribution Graph
+
+![Pastel Graph](https://github.com/alanazip/alanazip/raw/main/github-metrics.svg)
 
 
 ## 📊 My GitHub Stats 💎✨
