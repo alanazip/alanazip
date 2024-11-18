@@ -1,0 +1,16 @@
+name: Rainbow Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa uma vez ao dia
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Graph
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_contributions_graph: yes
+          plugin_contributions_graph_colors: rainbow
