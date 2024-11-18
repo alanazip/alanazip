@@ -1,4 +1,4 @@
-name: Generate Rainbow Contribution Graph
+name: Generate Contribution Calendar
 
 on:
   workflow_dispatch: # Permite rodar manualmente
@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Graph
+      - name: Generate Calendar
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_habits: yes
-          plugin_habits_trim: true
-          plugin_habits_charts: true
-          plugin_habits_charts_type: calendar
-          plugin_habits_languages_limit: 8
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_colors: "gradient|pink,lavender,lightblue,peach,lightgreen"
+          plugin_isocalendar_output: "github-metrics.svg"  # Nome do arquivo gerado
+          plugin_isocalendar_skip: "false" # Garantir que o calendário seja gerado sem descrição
