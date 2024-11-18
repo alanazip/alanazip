@@ -2,6 +2,8 @@
 
 Hi there! I'm Alana Prado, a passionate developer who loves creating **innovative solutions** and enjoying some **Minecraft adventures** in my free time. 🚀⚒️
 
+## 🌈 Graph
+![Rainbow Graph](https://github-contributions.vercel.app/user/alanazip?theme=rainbow)
 ---
 
 ## 📊 My GitHub Stats 💎✨
