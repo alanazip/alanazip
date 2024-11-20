@@ -1,7 +1,5 @@
 # 🟩 Welcome to My GitHub! 🟫
 
-Hi there! I'm Alana Prado, a passionate developer who loves creating **innovative solutions** and enjoying some **Minecraft adventures** in my free time. 🚀⚒️
-
 ## 📊 My GitHub Stats 💎✨
 
 <table>
@@ -41,7 +39,6 @@ Rainbow calculator 🌈 to show how much fuel you need for the trip in xKm. **Te
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
----
 
 ### 🌱 **[Riquezas da Floresta](https://github.com/alanazip/riquezasdafloresta)**
 An e-commerce platform dedicated to promoting and selling sustainably sourced products from the Brazilian forests. Discover natural goods that support local communities and the conservation of biodiversity. **Technologies used**: JavaScript, CSS3. 
@@ -50,7 +47,6 @@ An e-commerce platform dedicated to promoting and selling sustainably sourced pr
 ![JavaScript](https://img.shields.io/badge/JavaScript-34eb37?style=flat-square&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
----
 
 ## 🚀 My Goals 🎯
 
@@ -58,15 +54,9 @@ An e-commerce platform dedicated to promoting and selling sustainably sourced pr
 - Contribute to the **open-source community** like a true crafter!
 - Continuously learn and explore new tools, just like mining for diamonds. 💎
 
----
 
 ## 💬 Let's Connect! 📨
 
 - 📫 **Email**: [alananascimentodesouza@gmail.com](mailto:alananascimentodesouza@gmail.com)  
 - 🌐 **LinkedIn**: [Alana Prado](https://linkedin.com/in/alanazip)  
 - 🐱 **GitHub**: [Alana's GitHub](https://github.com/alanazip)
-
----
-
-## 🎮 Fun Fact: Why Minecraft? 🤔
-I love Minecraft because it inspires **creativity, resourcefulness, and collaboration**—skills I bring to my projects! Whether it's building worlds block by block or writing code line by line, the possibilities are endless! 🟩🟫
