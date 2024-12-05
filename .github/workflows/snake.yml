@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v2.2.0
+        uses: alanazip/snk@v2.2.0
         with:
           github_user_name: alanazip # Substitua pelo seu nome de usuário no GitHub
 
