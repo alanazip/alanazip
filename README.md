@@ -23,6 +23,7 @@
 ![Python](https://skillicons.dev/icons?i=python)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![C#](https://skillicons.dev/icons?i=csharp)
+![Figma](https://skillicons.dev/icons?i=figma)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 ![Java](https://skillicons.dev/icons?i=java)
