@@ -8,7 +8,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=alanazip&show_icons=true&theme=dark&icon_color=34eb37&title_color=34eb37&hide_title=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanazip&layout=compact&theme=dark&title_color=34eb37" alt="Top Languages" width="400px" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanazip&layout=compact&theme=dark&title_color=34eb37" alt="Top Languages" width="300px" />
     </td>
   </tr>
 </table>
