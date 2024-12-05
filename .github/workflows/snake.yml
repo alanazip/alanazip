@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -12,14 +12,13 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Generate Snake
+      - name: Generate Snake Animation
         uses: Platane/snk@v2
         with:
           github_user_name: alanazip # Substitua pelo seu nome de usuário
+          svg_out_path: dist/snake.svg
 
-      - name: Push to GitHub
+      - name: Deploy Snake Animation
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .github/snake-output
-          publish_branch: output
