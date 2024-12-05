@@ -1,7 +1,5 @@
 # Welcome to My GitHub! 🟫
 
- ![Snake Animation](https://raw.githubusercontent.com/alanazip/alanazip/output/snake.svg)
-
 ## 📊 My GitHub Stats ✨
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
