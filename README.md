@@ -1,4 +1,4 @@
-# Welcome to My GitHub! <img src="https://media.tenor.com/WHOwHxdVSQIAAAAM/capoo-capoo-type.gif" alt="Capoo Typing" width="20" style="vertical-align: middle;"/>
+# Welcome to My GitHub! <img src="https://media.tenor.com/WHOwHxdVSQIAAAAM/capoo-capoo-type.gif" alt="Capoo Typing" width="40" style="vertical-align: middle;"/>
 
 ## 📊 My GitHub Stats ✨
 
