@@ -1,14 +1,14 @@
-# 🟩 Welcome to My GitHub! 🟫
+# Welcome to My GitHub! 🟫
 
-## 📊 My GitHub Stats 💎✨
+## 📊 My GitHub Stats ✨
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=alanazip&show_icons=true&theme=dark&icon_color=34eb37&title_color=34eb37&hide_title=false&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=alanazip&show_icons=true&theme=dark&icon_color=34eb37&title_color=34eb37&hide_title=false&count_private=true&include_all_commits=true" alt="GitHub Stats" width="400px" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanazip&layout=compact&theme=dark&title_color=34eb37" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanazip&layout=compact&theme=dark&title_color=34eb37" alt="Top Languages" width="400px" />
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@
 ![Dart](https://skillicons.dev/icons?i=dart)
 ---
 
-## 🌟 Featured Projects 🔥🌳
+## 🌟 Featured Projects
 
 ### 🗺️ **[Fuel Calculator](https://github.com/alanazip/fuel_calculator)**
 Rainbow calculator 🌈 to show how much fuel you need for the trip in xKm. **Technologies used**: Kotlin, Android.  
@@ -45,7 +45,6 @@ Rainbow calculator 🌈 to show how much fuel you need for the trip in xKm. **Te
 
 ### 🌱 **[Riquezas da Floresta](https://github.com/alanazip/riquezasdafloresta)**
 An e-commerce platform dedicated to promoting and selling sustainably sourced products from the Brazilian forests. Discover natural goods that support local communities and the conservation of biodiversity. **Technologies used**: JavaScript, CSS3. 
-> 🌳 Building solutions as sustainable as a Minecraft forest!
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![CSS3](https://skillicons.dev/icons?i=css)
