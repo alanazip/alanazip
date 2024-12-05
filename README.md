@@ -51,14 +51,7 @@ An e-commerce platform dedicated to promoting and selling sustainably sourced pr
 ![CSS3](https://skillicons.dev/icons?i=css)
 
 
-## 🚀 My Goals 🎯
-
-- Build impactful projects using **Kotlin**, **Python**, and other amazing tools.
-- Contribute to the **open-source community** like a true crafter!
-- Continuously learn and explore new tools, just like mining for diamonds. 💎
-
-
 ## 💬 Let's Connect! 📨
 
-- 📫 **Email**: [alananascimentodesouza@gmail.com](mailto:alananascimentodesouza@gmail.com)  
-- 🌐 **LinkedIn**: [Alana Prado](https://linkedin.com/in/alanazip) 
+- 📫 **Email**: <a href="mailto:alananascimentodesouza@gmail.com" target="_blank">alananascimentodesouza@gmail.com</a>  
+- 🌐 **LinkedIn**: <a href="https://linkedin.com/in/alanazip" target="_blank">Alana Prado</a>
