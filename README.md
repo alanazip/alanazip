@@ -1,6 +1,6 @@
 # Welcome to My GitHub! 🟫
 
-![Snake Animation](https://raw.githubusercontent.com/alanazip/alanazip/output/snake.svg)
+ ![Snake Animation](https://raw.githubusercontent.com/alanazip/alanazip/output/snake.svg)
 
 ## 📊 My GitHub Stats ✨
 
