@@ -15,20 +15,23 @@
 
 ---
 
-## 🛠️ Tools in My Developer Inventory 🧰
+### 🛠️ Tools in My Developer Inventory 🧰
 
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-34eb37?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Python](https://skillicons.dev/icons?i=python)
+![PHP](https://skillicons.dev/icons?i=php)
+![C#](https://skillicons.dev/icons?i=csharp)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Java](https://skillicons.dev/icons?i=java)
+![Swift](https://skillicons.dev/icons?i=swift)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Azure](https://skillicons.dev/icons?i=azure)
+![React](https://skillicons.dev/icons?i=react)
+![Dart](https://skillicons.dev/icons?i=dart)
 ---
 
 ## 🌟 Featured Projects 🔥🌳
