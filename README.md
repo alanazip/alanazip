@@ -47,7 +47,7 @@ An e-commerce platform dedicated to promoting and selling sustainably sourced pr
 
 <p align="left">
   <a href="mailto:alananascimentodesouza@gmail.com">
-    <img src="https://skillicons.dev/icons?i=email" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/alanazip" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
