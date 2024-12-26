@@ -45,6 +45,7 @@
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 ![VS Code](https://skillicons.dev/icons?i=vs)
+![Windows](https://skillicons.dev/icons?i=windows)
 ---
 
 ## 🐻🌸 Featured Projects
