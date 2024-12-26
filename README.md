@@ -40,7 +40,6 @@
 ![NPM](https://skillicons.dev/icons?i=npm)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
-![Swift](https://skillicons.dev/icons?i=swift)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
