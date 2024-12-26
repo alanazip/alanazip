@@ -44,7 +44,7 @@
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
-![VS Code](https://skillicons.dev/icons?i=vs)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
