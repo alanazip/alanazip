@@ -63,6 +63,8 @@ An e-commerce platform dedicated to promoting and selling sustainably sourced pr
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![CSS3](https://skillicons.dev/icons?i=css)
 
+---
+
 ## 🐾 Let's Connect! ✉️  
 
 <p align="left">
