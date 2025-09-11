@@ -79,6 +79,3 @@ An e-commerce platform dedicated to promoting and selling sustainably sourced pr
   </a>
 </p>
 
-- 🌀 **Email**: <a href="mailto:alananascimentodesouza@gmail.com">alananascimentodesouza@gmail.com</a>  
-- 👔 **LinkedIn**: <a href="https://linkedin.com/in/alanazip">Alana Prado</a>  
-- 🦋 **Discord**: <a href="https://discord.gg/K8bVQZvJ">Let's talk!</a>
