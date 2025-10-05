@@ -1,10 +1,7 @@
 # Welcome to My GitHub!　　　　　　　　　　　　　  <span style="float: right;"><img src="https://media.tenor.com/WHOwHxdVSQIAAAAM/capoo-capoo-type.gif" alt="Capoo Typing" width="60"/></span>
 
-## My GitHub Stats
-
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=alanazip&show_icons=true&theme=dark&icon_color=34eb37&title_color=34eb37&hide_title=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="195px" /> !-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanazip&layout=compact&theme=dark&title_color=34eb37" alt="Top Languages" height="195px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanazip&layout=compact&theme=dark&title_color=34eb37" alt="Top Languages" height="195px" />
 </div>
 
 ---
