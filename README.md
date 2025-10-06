@@ -1,26 +1,13 @@
 # Welcome to My GitHub!　　　　　　　　　　　　　  
 
-<div style="display: flex; align-items: center;">
-  <span>
-    <img src="https://media.tenor.com/WHOwHxdVSQIAAAAM/capoo-capoo-type.gif" 
-         alt="Capoo Typing" width="200"/>
-  </span>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanazip&layout=compact&theme=dark&title_color=34eb37" 
-       alt="Top Languages" height="295px" />
-</div>
-
-
-
----
-
 ## 💻 About Me
-- 🎓 Bachelor in **Systems Analysis and Development** (FATEC Presidente Prudente).  
-- 🎓 Currently enrolled as a **special master's student in Computer Science** (UNESP).  
-- 🛠️ 4+ years of experience as **Support Analyst and Front-end Developer**, working with **Linux servers, databases, training, and mobile app publishing**.  
-- 🌍 Skills in **JavaScript, TypeScript, Kotlin, Swift, PHP, Python, CSS**, and more.  
-- 📡 Knowledge in **network administration, MySQL/PhpMyAdmin, SSH, and cybersecurity (CISCO certified)**.  
-- 📱 Published apps on **App Store and Google Play**.  
-- 🌱 Constant learner, focused on software development, design, and problem-solving.  
+ 🎓 Bachelor in **Systems Analysis and Development** (FATEC Presidente Prudente).  
+ 🎓 Currently enrolled as a **special master's student in Computer Science** (UNESP).  
+ 🛠️ 4+ years of experience as **Support Analyst and Front-end Developer**, working with **Linux servers, databases, training, and mobile app publishing**.  
+ 🌍 Skills in **JavaScript, TypeScript, Kotlin, Swift, PHP, Python, CSS**, and more.  
+ 📡 Knowledge in **network administration, MySQL/PhpMyAdmin, SSH, and cybersecurity (CISCO certified)**.  
+ 📱 Published apps on **App Store and Google Play**.  
+ 🌱 Constant learner, focused on software development, design, and problem-solving.  
 
 ---
 
