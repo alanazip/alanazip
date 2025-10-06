@@ -6,7 +6,7 @@
          alt="Capoo Typing" width="200"/>
   </span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanazip&layout=compact&theme=dark&title_color=34eb37" 
-       alt="Top Languages" height="295px" style="margin-left: auto;" />
+       alt="Top Languages" height="295px" width="300px" style="margin-left: auto;" />
 </div>
 
 
