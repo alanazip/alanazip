@@ -1,7 +1,7 @@
 # Welcome to My GitHub!　　　　　　　　　　　　　  
 
 ## 💻 About Me
- 🎓 Bachelor in **Systems Analysis and Development** (FATEC Presidente Prudente).  
+ 🎓 Technologist in **Systems Analysis and Development** (FATEC Presidente Prudente).  
  🎓 Currently enrolled as a **special master's student in Computer Science** (UNESP).  
  🛠️ 4+ years of experience as **Support Analyst and Front-end Developer**, working with **Linux servers, databases, training, and mobile app publishing**.  
  🌍 Skills in **JavaScript, TypeScript, Kotlin, Swift, PHP, Python, CSS**, and more.  
