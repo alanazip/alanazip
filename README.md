@@ -1,4 +1,5 @@
-# Welcome to My GitHub!　　　　　　　　　　　　　  <span style="float: right;"><img src="https://media.tenor.com/WHOwHxdVSQIAAAAM/capoo-capoo-type.gif" alt="Capoo Typing" width="60"/></span>
+# Welcome to My GitHub!　　　　　　　　　　　　　  
+<span style="float: right;"><img src="https://media.tenor.com/WHOwHxdVSQIAAAAM/capoo-capoo-type.gif" alt="Capoo Typing" width="60"/></span>
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanazip&layout=compact&theme=dark&title_color=34eb37" alt="Top Languages" height="195px" />
@@ -6,57 +7,116 @@
 
 ---
 
-### Tools in My Developer Inventory
+## 💻 About Me
+- 🎓 Bachelor in **Systems Analysis and Development** (FATEC Presidente Prudente).  
+- 🎓 Currently enrolled as a **special master's student in Computer Science** (UNESP).  
+- 🛠️ 4+ years of experience as **Support Analyst and Front-end Developer**, working with **Linux servers, databases, training, and mobile app publishing**.  
+- 🌍 Skills in **JavaScript, TypeScript, Kotlin, Swift, PHP, Python, CSS**, and more.  
+- 📡 Knowledge in **network administration, MySQL/PhpMyAdmin, SSH, and cybersecurity (CISCO certified)**.  
+- 📱 Published apps on **App Store and Google Play**.  
+- 🌱 Constant learner, focused on software development, design, and problem-solving.  
+
+---
+
+## 🛠️ Tech Stack
 
 ![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![TypeScript](https://skillicons.dev/icons?i=ts)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![CSS3](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
 ![Python](https://skillicons.dev/icons?i=python)
+![Swift](https://skillicons.dev/icons?i=swift)
+![Java](https://skillicons.dev/icons?i=java)
 ![PHP](https://skillicons.dev/icons?i=php)
-![C#](https://skillicons.dev/icons?i=cs)
+![CSS3](https://skillicons.dev/icons?i=css)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-![Java](https://skillicons.dev/icons?i=java)
-![Swift](https://skillicons.dev/icons?i=swift)
-![AWS](https://skillicons.dev/icons?i=aws)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Azure](https://skillicons.dev/icons?i=azure)
-![React](https://skillicons.dev/icons?i=react)
-![Dart](https://skillicons.dev/icons?i=dart)
-![Apple](https://skillicons.dev/icons?i=apple)
-![AWS](https://skillicons.dev/icons?i=aws)
-![Bash](https://skillicons.dev/icons?i=bash)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
 ![Debian](https://skillicons.dev/icons?i=debian)
-![Gradle](https://skillicons.dev/icons?i=gradle)
+![Bash](https://skillicons.dev/icons?i=bash)
+![Azure](https://skillicons.dev/icons?i=azure)
+![AWS](https://skillicons.dev/icons?i=aws)
 ![Heroku](https://skillicons.dev/icons?i=heroku)
-![Jquery](https://skillicons.dev/icons?i=jquery)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Mint](https://skillicons.dev/icons?i=mint)
-![Node Js](https://skillicons.dev/icons?i=nodejs)
+![Gradle](https://skillicons.dev/icons?i=gradle)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![NPM](https://skillicons.dev/icons?i=npm)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![PowerShell](https://skillicons.dev/icons?i=powershell)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
-![Windows](https://skillicons.dev/icons?i=windows)
+![Visual Studio](https://skillicons.dev/icons?i=visualstudio)
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Windows](https://skillicons.dev/icons?i=windows)
+
 ---
 
-##  Featured Projects
+## 🚀 Featured Projects
 
-### 🌈 **[Fuel Calculator](https://github.com/alanazip/fuel_calculator)**
-Rainbow calculator to show how much fuel you need for the trip in xKm. **Technologies used**: Kotlin, Android.  
->  Calculate fuel efficiency like you're exploring biomes efficiently!
+### 🕹️ [E-commerce (Laravel + Games)](https://github.com/alanazip/ecommerce)
+Laravel-based code for a game-themed e-commerce, inspired by Minecraft aesthetics.  
+**Tech used**: Laravel, JavaScript.  
 
-![Kotlin](https://skillicons.dev/icons?i=kotlin)
+![JavaScript](https://skillicons.dev/icons?i=js)
 
-### 🌱 **[Riquezas da Floresta](https://github.com/alanazip/riquezasdafloresta)**
-An e-commerce platform dedicated to promoting and selling sustainably sourced products from the Brazilian forests. Discover natural goods that support local communities and the conservation of biodiversity. **Technologies used**: JavaScript, CSS3. 
+---
+
+### 🛍️ [Next.js Clothing Store](https://github.com/alanazip/nextjs-firstproj)
+An e-commerce platform built with **Next.js**, featuring a clothing and accessories catalog, customer registration, and a purchase system.  
+**Tech used**: Next.js, TypeScript.  
+
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
+
+---
+
+### 🏠 [App Real State](https://github.com/alanazip/apprealstate)
+A **React Native CRUD application** for real estate management, allowing property registration, user accounts, and messaging.  
+**Tech used**: React Native, TypeScript.  
+
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![React](https://skillicons.dev/icons?i=react)
+
+---
+
+### 🌱 [Riquezas da Floresta](https://github.com/alanazip/riquezasdafloresta)
+An e-commerce platform dedicated to promoting and selling sustainably sourced products from Brazilian forests. Supports local communities and biodiversity conservation.  
+**Tech used**: JavaScript, CSS3.  
 
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![CSS3](https://skillicons.dev/icons?i=css)
 
+---
+
+### ⛽ [Fuel Calculator](https://github.com/alanazip/fuel_calculator)
+A colorful calculator that shows fuel needs for trips in kilometers.  
+**Tech used**: Kotlin, Android.  
+
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+
+---
+
+### 📱 [BMI Calculator](https://github.com/alanazip/CalculadoraIMC)
+BMI calculator app with on-screen interaction and color-based feedback according to patient health.  
+**Tech used**: Kotlin, Android.  
+
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+
+---
+
+### ➗ [Tip Calculator](https://github.com/alanazip/tip_calculator)
+A calculator to split amounts between friends.  
+**Tech used**: Kotlin.  
+
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
+
+---
+
+## 📫 Contact
+- 📧 Email: **alananascimentodesouza@gmail.com**  
+- 🔗 LinkedIn: [alana-prado](https://linkedin.com/in/alana-prado-a04a73388/)  
+- 🌐 Lattes: [CV Lattes](http://lattes.cnpq.br/5812559967905252)  
+
+---
+✨ *Always learning, always building.* ✨
