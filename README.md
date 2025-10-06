@@ -107,9 +107,7 @@ A calculator to split amounts between friends.
 ---
 
 ## 📫 Contact
-- 📧 Email: **alananascimentodesouza@gmail.com**  
-- 🔗 LinkedIn: [alana-prado](https://linkedin.com/in/alana-prado-a04a73388/)  
-- 🌐 Lattes: [CV Lattes](http://lattes.cnpq.br/5812559967905252)  
+ 📧 Email: **alananascimentodesouza@gmail.com**  
+ 🔗 LinkedIn: [alana-prado](https://linkedin.com/in/alana-prado-a04a73388/)  
+ 🌐 Lattes: [CV Lattes](http://lattes.cnpq.br/5812559967905252)  
 
----
-✨ *Always learning, always building.* ✨
