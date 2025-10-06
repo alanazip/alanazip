@@ -64,15 +64,6 @@ An e-commerce platform built with **Next.js**, featuring a clothing and accessor
 
 ---
 
-### 🏠 [App Real State](https://github.com/alanazip/apprealstate)
-A **React Native CRUD application** for real estate management, allowing property registration, user accounts, and messaging.  
-**Tech used**: React Native, TypeScript.  
-
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![React](https://skillicons.dev/icons?i=react)
-
----
-
 ### 🌱 [Riquezas da Floresta](https://github.com/alanazip/riquezasdafloresta)
 An e-commerce platform dedicated to promoting and selling sustainably sourced products from Brazilian forests. Supports local communities and biodiversity conservation.  
 **Tech used**: JavaScript, CSS3.  
