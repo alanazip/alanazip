@@ -1,13 +1,14 @@
 # Welcome to My GitHub!　　　　　　　　　　　　　  
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; align-items: center;">
   <span>
     <img src="https://media.tenor.com/WHOwHxdVSQIAAAAM/capoo-capoo-type.gif" 
          alt="Capoo Typing" width="200"/>
   </span>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanazip&layout=compact&theme=dark&title_color=34eb37" 
-       alt="Top Languages" height="295px" />
+       alt="Top Languages" height="295px" style="margin-left: auto;" />
 </div>
+
 
 
 ---
